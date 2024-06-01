@@ -10,3 +10,7 @@ main (void)
   return 0;
 }
 ```
+
+### Compile and Run
+- [ ] g++ -o hello hello.cpp
+- [ ] ./hello
